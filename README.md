@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Josias03
-- 👀 I’m interested in IA ,Automatic and Robotics
+- 👀 I’m interested in Electrical ingeneering, IA ,Automatic and Robotics
 - 🌱 I’m currently learning Electrical Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
